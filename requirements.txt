@@ -1,0 +1,10 @@
+ultralytics
+roboflow
+ipython
+streamlit
+glob2
+opencv-python-headless
+pillow
+numpy
+torch
+torchvision
