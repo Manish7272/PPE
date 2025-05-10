@@ -1,9 +1,14 @@
 # Personal Protective Equipment (PPE) Detector
 
 Try this web app using below link :- 
-<br>
 
 https://ppe-web-app.streamlit.app/
+
+<br>
+
+Linkedin Post : https://www.linkedin.com/posts/manish-gupta-1083761b1_yolo-yolov8-opencv-activity-7324669359849660417-z_7n?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFalBgBFaDqPgRDwYc4xGTARpM443EQYWQ
+
+<br>
 
 
 ![Leonardo_Phoenix_10_sleek_and_minimalist_interface_on_a_clean_3](https://github.com/user-attachments/assets/d849947c-4299-49e2-933b-9bd0a308a1d9)
