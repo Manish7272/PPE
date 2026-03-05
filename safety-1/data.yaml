@@ -1,0 +1,13 @@
+train: /content/safety-1/train/images
+val: /content/safety-1/valid/images
+test: /content/safety-1/test/images
+
+nc: 8
+names: ['Boots', 'Ear-protection', 'Glass', 'Glove', 'Helmet', 'Mask', 'Person', 'Vest']
+
+roboflow:
+  workspace: badminton-szmsf
+  project: safety-pyazl-6lzii
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/badminton-szmsf/safety-pyazl-6lzii/dataset/1
